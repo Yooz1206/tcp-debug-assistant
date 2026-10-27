@@ -1,0 +1,14 @@
+# 构建产物
+dist/
+*.exe
+*.pdb
+
+# 用户级设置与日志
+*.user
+.vs/
+obj/
+bin/
+
+# 临时文件
+*.log
+*.png.tmp
